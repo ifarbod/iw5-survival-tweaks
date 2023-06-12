@@ -29,7 +29,7 @@ $ rustup target add i686-pc-windows-msvc
 - Navigate to a working directory of your choice and clone the repository:
 
 ```shell
-$ git clone --recursive --depth=1 https://github.com/ifarbod/iw5-survival-tweaks
+$ git clone --recursive --depth=1 https://github.com/ifarbod/iw5-survival-tweaks.git
 ```
 
 - Build the code:
