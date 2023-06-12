@@ -48,4 +48,3 @@ $ cargo build --lib --target=i686-pc-windows-msvc
   ```
   
 - After doing everything correctly, you should see a terminal screen attached to the game as you open it.
-- 
