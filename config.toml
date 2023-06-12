@@ -1,0 +1,10 @@
+[turrets]
+condition = 7 # 1= no target, 4, 5, 7 are valid values
+
+[allies]
+riot_shield_durability = 50000 # default is 20,000
+condition = 7
+spawn_protection = 1
+laser_sight = 8
+chance_of_being_hit = 1
+grenade_count = 4
