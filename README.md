@@ -39,6 +39,8 @@ $ cd iw5-survival-tweaks
 $ cargo build --lib --target=i686-pc-windows-msvc
 ```
 
+### Installing
+
 - Once it's done, install [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) to the root of your game directory, I found that `d3d9.dll` works well, however, you might want to use another DLL in case of using a graphics mod like ReShade.
 - Create a `plugins` folder.
 - Copy the resulting `.dll` file to that folder, rename the extension to `.asi`.
